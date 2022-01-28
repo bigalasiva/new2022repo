@@ -1,1 +1,2 @@
 newfile called gitfile3 creating
+second line added and using pull trying to add it local repo
