@@ -1,3 +1,3 @@
-newfile called gitfile3 creating
+deleting oldline and addding new line 
 second line added and using pull trying to add it local repo
 bug fix  adding line 3
