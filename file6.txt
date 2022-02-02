@@ -1,1 +1,2 @@
+line1 adding to file6
 line2 adding to file6
