@@ -1,2 +1,5 @@
 line1 adding to file6
+<<<<<<< Updated upstream
 line2 adding to file6
+=======
+>>>>>>> Stashed changes
